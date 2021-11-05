@@ -1,4 +1,4 @@
-# Project Name
+# Super Cool App
  
 < Insert Description of the project. What does it do? What issue does it solve? >
 This < project/tool/software/app > was built as part of the HackNYUAD 2021 Hackathon.
